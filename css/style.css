@@ -1,0 +1,27 @@
+
+/* Reset default styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a default font */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Add some basic styling to headings */
+h1, h2, h3 {
+    color: #333;
+    font-weight: bold;
+}
+
+/* Add some basic styling to links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
